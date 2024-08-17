@@ -177,7 +177,7 @@ public class MISSystem {
                     System.out.println("Invalid choice. Please enter a number between 1 and 5.");
             }
 
-            // Clear the console (platform-dependent)
+            
             System.out.print("\033[H\033[2J");
             System.out.flush();
         }
